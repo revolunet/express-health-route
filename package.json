@@ -1,0 +1,23 @@
+{
+  "name": "express-health-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getHealthRoute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "revolunet/express-health-route",
+  "author": {
+    "name": "Julien Bouquillon",
+    "email": "julien@bouquillon.com",
+    "url": "http://github.com/revolunet"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "health",
+    "monitoring"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}

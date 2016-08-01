@@ -1,0 +1,13 @@
+[{
+    "id": "some website",
+    "ip": "212.27.48.10",
+    "port": 80
+},{
+    "id": "google DNS",
+    "ip": "8.8.8.8",
+    "port": 53
+},{
+    "id": "invalid service",
+    "ip": "1.2.3",
+    "port": 9999
+}]
